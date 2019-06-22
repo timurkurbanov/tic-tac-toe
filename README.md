@@ -8,4 +8,4 @@ Used basic AI.
 https://timurkurbanov.github.io/tic-tac-toe/
 
 
-timkurbanov.ca
+https://timkurbanov.ca
